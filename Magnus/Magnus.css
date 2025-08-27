@@ -1,10 +1,13 @@
-h1 {font-size: 220%;}
+h1 {font-size: 220%;
+    text-align:center;}
 
-h2  {font-size: 160%}
+h2  {font-size: 160%
+    text-align:center;}
 
 p  {font-size: 100%;
     color: maroon;
-    font-family: times new roman, times, serif;}
+    font-family: times new roman, times, serif;
+    text-align:center;}
 
 #sub-paragraph {text-align:center;
                 margin-top: 50px;}
