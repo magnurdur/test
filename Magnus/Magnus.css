@@ -2,11 +2,9 @@ h1 {font-size: 220%;}
 
 h2  {font-size: 160%}
 
-p  {font-size: 100%;}
-
-p  {color: maroon;}
-
-p  {font-family: times new roman, times, serif;}
+p  {font-size: 100%;
+    color: maroon;
+    font-family: times new roman, times, serif;}
 
 img {width: 25%; 
      height: 25%;}
