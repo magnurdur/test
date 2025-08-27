@@ -1,29 +1,15 @@
-h1 {
-    font-size: 220%;
-}
+h1 {font-size: 220%;}
 
-h2  {
-    font-size: 160%
-}
+h2  {font-size: 160%}
 
-p  {font-size: 100%;
+p  {font-size: 100%;}
 
-   }
+p  {color: maroon;}
 
-p  {
-    color: maroon;
-}
+p  {font-family: times new roman, times, serif;}
 
-p  {font-family: times new roman, times, serif;
+img {width: 25%; 
+     height: 25%;}
 
-   }
-
-img {
-      width: 25%; 
-      height: 25%; 
-}
-
-img  {
-    float: right;
-    margin-right: 550px;
-}
+img  {float: right;
+      margin-right: 550px;}
