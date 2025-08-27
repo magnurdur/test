@@ -6,8 +6,11 @@ p  {
     color: green;
 }
 
+p  {font-family: times new roman, times, serif;
+
+   }
+
 img {
       width: 25%; 
       height: 25%; 
 }
-
