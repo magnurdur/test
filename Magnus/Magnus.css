@@ -6,7 +6,8 @@ p  {font-size: 100%;
     color: maroon;
     font-family: times new roman, times, serif;}
 
-#sub-paragraph {text-align:center;}
+#sub-paragraph {text-align:center;
+                margin-top: 50px;}
 
 img {width: 25%; 
      height: 25%;}
