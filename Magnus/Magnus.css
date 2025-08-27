@@ -2,6 +2,10 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
+h1  {
   color: #336699;
+}
+
+p  {
+  color: #555;
 }
