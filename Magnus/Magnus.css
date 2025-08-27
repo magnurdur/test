@@ -24,5 +24,6 @@ img {
 }
 
 img  {
-    float: middle;
+    float: right;
+    margin-right: 50px;
 }
