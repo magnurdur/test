@@ -17,4 +17,5 @@ img {width: 25%;
      margin: 0 auto;
      margin-bottom: 50px;}
 
-body {text-align: center;}
+body {text-align: center;
+      background-color: grey;}
