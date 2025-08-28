@@ -26,4 +26,7 @@ body {background-color: lightblue;}
          height: 50%;
          margin: 0 auto}
 
+#sub-paragraph {text-align:center;
+                margin-bottom: 50px;}
+
 body {text-align: center;}
