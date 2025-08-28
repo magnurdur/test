@@ -13,8 +13,8 @@ p  {font-size: 100%;
                 margin-top: 50px;}
 
 img {width: 25%; 
-     height: 25%;}
-
-img  {margin: 0 auto;}
+     height: 25%;
+     margin: 0 auto;
+     margin-bottom: 50px;}
 
 body {text-align: center;}
