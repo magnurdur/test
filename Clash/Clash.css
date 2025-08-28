@@ -12,10 +12,16 @@ p  {font-size: 100%;
 
 body {background-color: lightblue;}
 
-.Clash1 {margin: 0 auto;}
+.Clash1 {width: 25%;
+         height: 25%;
+         margin: 0 auto;}
 
-.Clash2 {margin: 0 auto;}
+.Clash2 {width: 25%;
+         height: 25%;
+         margin: 0 auto;}
 
-.Clash3 {margin: 0 auto}
+.Clash3 {width: 25%;
+         height: 25%;
+         margin: 0 auto}
 
-body {align: center;}
+body {text-align: center;}
