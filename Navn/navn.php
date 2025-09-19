@@ -9,6 +9,6 @@ function fulltNavn($fornavn,$etternavn)
 
     $navn=fulltNavn($fornavn,$etternavn);
 
-    print (Navnet ditt er $navn);
+    print ("Navnet ditt er $navn");
     
 ?>
