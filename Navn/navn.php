@@ -2,7 +2,7 @@
 
 function fulltNavn($fornavn,$etternavn)
     
-    {$navn=$fornavn + " " + $etternavn;}
+    {$navn="$fornavn $etternavn";}
 
     $fornavn=$_POST ["fornavn"];
     $etternavn=$_POST ["etternavn"];
